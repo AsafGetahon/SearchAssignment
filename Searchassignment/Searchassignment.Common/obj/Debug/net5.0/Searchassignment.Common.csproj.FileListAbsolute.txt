@@ -1,0 +1,15 @@
+C:\Users\asafg\source\repos\Searchassignment\Searchassignment.Common\bin\Debug\net5.0\Searchassignment.Common.deps.json
+C:\Users\asafg\source\repos\Searchassignment\Searchassignment.Common\bin\Debug\net5.0\Searchassignment.Common.dll
+C:\Users\asafg\source\repos\Searchassignment\Searchassignment.Common\bin\Debug\net5.0\ref\Searchassignment.Common.dll
+C:\Users\asafg\source\repos\Searchassignment\Searchassignment.Common\bin\Debug\net5.0\Searchassignment.Common.pdb
+C:\Users\asafg\source\repos\Searchassignment\Searchassignment.Common\obj\Debug\net5.0\Searchassignment.Common.csproj.AssemblyReference.cache
+C:\Users\asafg\source\repos\Searchassignment\Searchassignment.Common\obj\Debug\net5.0\Searchassignment.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asafg\source\repos\Searchassignment\Searchassignment.Common\obj\Debug\net5.0\Searchassignment.Common.AssemblyInfoInputs.cache
+C:\Users\asafg\source\repos\Searchassignment\Searchassignment.Common\obj\Debug\net5.0\Searchassignment.Common.AssemblyInfo.cs
+C:\Users\asafg\source\repos\Searchassignment\Searchassignment.Common\obj\Debug\net5.0\Searchassignment.Common.csproj.CoreCompileInputs.cache
+C:\Users\asafg\source\repos\Searchassignment\Searchassignment.Common\obj\Debug\net5.0\Searchassignment.Common.dll
+C:\Users\asafg\source\repos\Searchassignment\Searchassignment.Common\obj\Debug\net5.0\ref\Searchassignment.Common.dll
+C:\Users\asafg\source\repos\Searchassignment\Searchassignment.Common\obj\Debug\net5.0\Searchassignment.Common.pdb
+C:\Users\asafg\source\repos\Searchassignment\Searchassignment.Common\bin\Debug\net5.0\Searchassignment.Model.dll
+C:\Users\asafg\source\repos\Searchassignment\Searchassignment.Common\bin\Debug\net5.0\Searchassignment.Model.pdb
+C:\Users\asafg\source\repos\Searchassignment\Searchassignment.Common\obj\Debug\net5.0\Searchassignment.Common.csproj.CopyComplete
